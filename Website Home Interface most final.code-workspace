@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "../Website Home Interface final1/jsregschool"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "Website Home Interface final"
+	}
+}
